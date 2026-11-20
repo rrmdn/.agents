@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain Changes"
+  short_description: "Explain the behavioral delta of code changes"
+  default_prompt: "Use $explain-changes to produce a Behavioral EXPLAIN of my code changes."
